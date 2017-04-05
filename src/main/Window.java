@@ -5,7 +5,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.Random;
 import objects.*;
-
+//5810546684 Napon Kittisiriprasert
 //5810546064 Atid Srisukantapruek
 public class Window extends JFrame {
 
